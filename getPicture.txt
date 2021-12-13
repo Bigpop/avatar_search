@@ -1,0 +1,4 @@
+Get the user's avatar from https://bbs.byr.cn/#!board/Friends.
+
+Windows10 install openSSL environment and command line call openSSL, refer to the link address:
+https://blog.csdn.net/sunhuansheng/article/details/82218678
